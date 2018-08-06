@@ -1,0 +1,6 @@
+{
+  "name": "arkadiusz-skalski",
+  "description": "Stay a while and listen.",
+  "image": "heroku/scala",
+  "addons": [ "heroku-postgresql" ]
+}
