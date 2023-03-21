@@ -9,3 +9,9 @@ You can click the button below to find out more about me.
 https://arkadiusz-skalski.herokuapp.com
 
 Source code can be found [within this repository](https://github.com/askalski85/askalski85.github.io). 
+
+* Scala app might be deprecated by now.
+
+## Learning blog
+
+Check out my awesome [learning blog](https://askalski85.github.io/sunday-learning/).
